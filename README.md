@@ -26,13 +26,13 @@ The app will run at http://localhost:3000/.
 npm test
 ```
 ## 6 Testing
-Frameworks: Jest, React Testing Library
-Ensure core features, like API calls and UI updates are tested.
+- Frameworks: Jest, React Testing Library
+- Ensure core features, like API calls and UI updates are tested.
 
 ## 7 Error Handling
-Show an error message if API request fails.
-Show a spinner while fetching data.
-Handle cases when no flight data is available.
+- Show an error message if API request fails.
+- Show a spinner while fetching data.
+- Handle cases when no flight data is available.
 
 ## 8 Deployment Instructions
 ```sh
